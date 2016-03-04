@@ -1,0 +1,4 @@
+D:\vcb\CsharpProjects\ConsoleDocxToPNG\ConsoleDocxToPNG\bin\Debug\ConsoleDocxToPNG.exe
+D:\vcb\CsharpProjects\ConsoleDocxToPNG\ConsoleDocxToPNG\bin\Debug\ConsoleDocxToPNG.pdb
+D:\vcb\CsharpProjects\ConsoleDocxToPNG\ConsoleDocxToPNG\obj\x86\Debug\ConsoleDocxToPNG.exe
+D:\vcb\CsharpProjects\ConsoleDocxToPNG\ConsoleDocxToPNG\obj\x86\Debug\ConsoleDocxToPNG.pdb
